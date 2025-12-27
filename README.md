@@ -27,4 +27,3 @@ Schaut euch meine [GitHub](https://github.com/technicaldoctorde) oder [Youtube K
 
 ---
 
-![TechnicalDoctor GitHub stats](https://github-readme-stats.vercel.app/api?username=technicaldoctorde&show_icons=true&theme=monokai)
